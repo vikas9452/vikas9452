@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas9452" alt="vikas9452" /></a> </p>
 
-- 🌱 I’m currently learning **SIEM Tools, Splunk, Wireshark, Python**
+- 🌱 I’m currently learning **Pentesting, AI Security, Web Exploitation**
 
 - 🤝 I’m looking for help with [SSH Bruteforce](https://github.com/vikas9452/CyberSec-Projects/blob/main/ssh_bruteforce_v1.0.py)
 
